@@ -1,0 +1,62 @@
+td {
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'Nanum Pen Script', cursive;
+    font-weight: 900;
+    border-radius: 5px;
+    border-width: 2px;
+}
+p {
+    font-size: 22px;
+    margin-left: 30px;
+}
+body{
+    width: 800px;
+    height: 1500px;
+    border: 10px double rgb(0, 17, 114);
+    align-content: center;
+    margin: auto;
+    box-shadow: 10px 10px 10px 5px rgb(0, 3, 66);
+    background-color: rgb(209, 241, 238);
+}
+#img1{
+    margin-left: 47px ;
+    width: 700px;
+    height: 400px;
+}
+#img2{
+    margin-left: 47px ;
+    width: 700px;
+    height: 400px;
+}
+table{
+    width: 720px;
+    height: 300px;
+    margin-left: 30px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(255, 246, 207);
+    border-radius: 5px;
+    border-width: 4px;
+}
+hr{
+    border-color: rgb(0, 17, 114);
+    border-width: 2px;
+}
+#title{
+    font-size: 22px;
+}
+#day_set{
+    text-decoration-line: underline;
+}
+span{
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 30px;
+}
+#sign{
+    text-align: right;
+    padding-right: 20px;
+}
+h2{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 22px;
+}
+
+html{
+    background-color: beige;
+    font-size: 16px;
+}
+
+body{
+    width: 640px;
+    margin: auto;
+}
+
+h1{
+    font-size: 48px;
+}
+
+img{
+    border-radius: 150px;
+}
+h2{
+    font-size: 2rem;
+}
